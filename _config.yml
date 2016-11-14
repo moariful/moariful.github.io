@@ -1,2 +1,5 @@
 name: Mo Islam, Data Guru-ish
 markdown: kramdown
+
+permalink: /blog/:title
+
