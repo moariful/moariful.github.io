@@ -1,5 +1,7 @@
-name: Mo Islam, Data Guru-ish
-markdown: kramdown
-
-permalink: /blog/:title
-
+# Site settings
+title: MoDa Blogs
+description: Mo's Date With Data
+keywords: Modern, Blogging, Fun
+author: Mo Islam
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "moariful.github.io" # the base hostname & protocol for your site
